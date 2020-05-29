@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['addMessage',['$event']]]]]}}" hidden="{{!(isShow)}}" class="container" bindtap="__e"><view class="head"></view><view class="content"><view class="add-modal"><image class="add-icon" src="../../static/index/add.png" mode></image></view></view><view class="footer"></view></view>

@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-card": "/components/uni-card/uni-card",
+    "uni-rate": "/components/uni-rate/uni-rate",
+    "ygc-comment": "/components/ygc-comment/ygc-comment",
+    "add-messages": "/components/addMessages/addMessages"
+  }
+}

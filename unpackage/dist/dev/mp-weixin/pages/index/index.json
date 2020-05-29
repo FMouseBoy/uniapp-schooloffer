@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar",
+    "uni-search-bar": "/components/uni-search-bar/uni-search-bar",
+    "uni-card": "/components/uni-card/uni-card",
+    "uni-rate": "/components/uni-rate/uni-rate",
+    "add-messages": "/components/addMessages/addMessages"
+  }
+}
