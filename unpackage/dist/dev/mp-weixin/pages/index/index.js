@@ -226,6 +226,10 @@ var _util = _interopRequireDefault(__webpack_require__(/*! ../util/util.js */ 24
 
   onLoad: function onLoad() {
     this.init();
+    wx.showShareMenu({
+      withShareTicket: true,
+      menus: ['shareAppMessage', 'shareTimeline']
+    })
   },
   onShow: function onShow() {
 
